@@ -49,15 +49,3 @@ Build a web-based dashboard that:
 3. Explore missing-value handling options.
 4. View correlation heatmaps and visualizations.
 5. Select a target column for basic AI/ML model evaluation.
-
-## Deployment
-Deploy to Streamlit Community Cloud:
-1. Push the repository to GitHub.
-2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io).
-3. Connect the GitHub repository and deploy.
-
-## Deliverables
-- Live Streamlit link: Add the generated Streamlit deployment URL here after publishing.
-- GitHub repository: Add the repository URL after pushing the project.
-- Dataset used: Upload or reference the CSV file used for analysis.
-- LinkedIn post: Add your summary and share the dashboard project.
