@@ -157,7 +157,8 @@ def basic_ml_analysis(df: pd.DataFrame, target: str):
         return
 
     X = X.fillna(X.mean())
-    if y.dtype == object or y.nunique() < 10:
+    is_numeric = pd.api.types.is_numeric_dtype(y)
+    if not is_numeric or y.nunique() < 10:
         st.write("**Task:** Classification")
         y = y.fillna("missing")
         encoder = LabelEncoder()
