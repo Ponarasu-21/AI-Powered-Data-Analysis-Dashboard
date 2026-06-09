@@ -70,8 +70,6 @@ Example: Use datasets from [Kaggle](https://kaggle.com), [UCI ML Repository](htt
 - **GitHub repository:** https://github.com/Ponarasu-21/AI-Powered-Data-Analysis-Dashboard
 - **Dataset used:** Employee Salary Dataset (sample_data.csv)
   - 20 employee records with Age, Salary, Experience, Department, and Bonus_Eligible columns
-- **LinkedIn post:** [Add your LinkedIn post URL or summary here]
-  - Share your learning journey and key insights from building this dashboard
 
 ## Key Features Implemented
 ✅ CSV dataset upload and preview  
